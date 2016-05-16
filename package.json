@@ -1,0 +1,26 @@
+{
+  "name": "immutable-demo",
+  "version": "1.0.0",
+  "description": "show how to write module react",
+  "main": "app.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuyan",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-react": "^3.1.0",
+    "immutable": "^3.7.6",
+    "react": "^0.14.7",
+    "react-addons": "^0.9.1-deprecated",
+    "react-dom": "^0.14.7",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1"
+  }
+}
